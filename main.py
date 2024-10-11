@@ -4,7 +4,7 @@ import csv
 import random
 
 #WELCOME MESSAGE ===============>
-print('======== WELCOME TO OUR COGNITIVE GAME ============')
+print('======== WELCOME TO OUR COGNITIVE GAME(Jose's) ============')
 
 #OPEN THE CSV
 with open('RANDOM_WORDS - Hoja 1.csv', mode='r', encoding='utf-8') as file:
